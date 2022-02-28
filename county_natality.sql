@@ -3,6 +3,7 @@
 
 
 
+
 SELECT T1.Year,SUM (T1.Births) AS Total_Numbers_of_Birth
 FROM `bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_father_race`as T1
 LEFT JOIN`bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_mother_race`AS T2 
