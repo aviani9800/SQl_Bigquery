@@ -1,5 +1,5 @@
 # sql_query
-world_bank_intl_debt.sql
+1.world_bank_intl_debt.sql
 
 Total Amount Of Debt Taken By India  Between 1970-2015 
 
