@@ -3,7 +3,6 @@
  
 --Total Number of  Cleared Crimes  related to Theft by Arrest. 
 
-SELECT UPPER(primary_type) AS Crime, COUNT(primary_type) AS Number_of_Crimes
-FROM `bigquery-public-data.austin_crime.crime`
-GROUP BY 1
-ORDER BY 2 desc 
+select count(clearance_status) as Number_of_Not_clearance_Cases 
+from  `bigquery-public-data.austin_crime.crime` where primary_type = 'Theft' 
+and clearance_status='Cleared by Arrest'
