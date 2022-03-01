@@ -85,6 +85,25 @@ Suppose the vendor(Diageo Americas) wants to know which stores order their liquo
 ![image](https://user-images.githubusercontent.com/75080175/156112262-c295a8ac-7601-4474-8ecb-06ddc66448c2.png)
 
 
+13.iowa_liquor_sales13.sql
+
+city from where maximum number of liquor ordered
+
+![image](https://user-images.githubusercontent.com/75080175/156112785-7a843ed3-fe57-4565-8085-54da4acc0c39.png)
+
+
+14.iowa_liquor_sales14.sql
+
+Average order value By Stores
+
+![image](https://user-images.githubusercontent.com/75080175/156113409-29636ef2-3bff-452e-9bd1-50811ec666cf.png)
+
+
+15.iowa_liquor_sales15.sql
+
+All the orders value more than 500$, coming from the city INDIANOLA between 2017-01-31 and '2017-12-01'
+
+![image](https://user-images.githubusercontent.com/75080175/156114020-ce4f096b-27f5-4ae4-9807-8548352936d9.png)
 
 
 
