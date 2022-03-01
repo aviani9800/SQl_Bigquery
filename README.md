@@ -80,6 +80,11 @@ Stores from where Alcoholic Beverages Division gain the max revenue.
 
 12.iowa_liquor_sales12.sql
 
+Suppose the vendor(Diageo Americas) wants to know which stores order their liquor, maximum amount !!!
+
+![image](https://user-images.githubusercontent.com/75080175/156112262-c295a8ac-7601-4474-8ecb-06ddc66448c2.png)
+
+
 
 
 
