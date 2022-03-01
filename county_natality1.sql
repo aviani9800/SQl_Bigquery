@@ -1,6 +1,8 @@
 --Births Data Summary
 --county_natality
 
+--Total Births between 2016-2018, where father and mother are either Asian or White,
+--but both are neither Asian nor White at the same time.
 
 
 
