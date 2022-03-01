@@ -36,14 +36,21 @@ Number of Not Clearance Crimes in Austin
 ![image](https://user-images.githubusercontent.com/75080175/156104673-fc48eb8b-efde-46e6-b608-eb357800223b.png)
 
 
-6. Austin_crime6.sql
+6.Austin_crime6.sql
 
 Total Number of  Cleared Crimes  related to Theft by Arrest.
 
 ![image](https://user-images.githubusercontent.com/75080175/156105235-3be7d68a-94fd-4e77-8bb5-9bd85759d06a.png)
 
 
-7.
+7.Austin_crime7.sql
+
+List Of Address By Crime Rate in Austin.
+
+![image](https://user-images.githubusercontent.com/75080175/156105863-afb4a884-f065-4390-9891-a9b669eaee4b.png)
+
+
+8.
 
 
 
