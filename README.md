@@ -59,6 +59,19 @@ TOP  10  Category  of  the  liquor  ordered by Stores from vendors for retail sa
 
 9.iowa_liquor_sales9.sql
 
+TOP 10 vendor name of the company for the brand of liquor ordered by stores.
+
+![image](https://user-images.githubusercontent.com/75080175/156108106-7570a5c0-9d0d-4be6-963e-32758e0fdc75.png)
+
+
+10.iowa_liquor_sales10.sql
+
+TOP purchasing stores Of liquor.
+
+![image](https://user-images.githubusercontent.com/75080175/156108313-b64f1590-a1a5-4c1e-b80d-c93acaa3c5c5.png)
+
+
+
 
 
 
