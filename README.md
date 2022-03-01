@@ -50,7 +50,14 @@ List Of Address By Crime Rate in Austin.
 ![image](https://user-images.githubusercontent.com/75080175/156105863-afb4a884-f065-4390-9891-a9b669eaee4b.png)
 
 
-8.
+8.iowa_liquor_sales8.sql
+
+TOP  10  Category  of  the  liquor  ordered by Stores from vendors for retail sales 
+
+![image](https://user-images.githubusercontent.com/75080175/156107412-750eb586-cccc-4dab-8724-3d337d8ec605.png)
+
+
+9.iowa_liquor_sales9.sql
 
 
 
